@@ -111,7 +111,7 @@ const productDetailItem = async () => {
      </div>`;
      
  
-     body.insertAdjacentHTML("afterend",itemHTML)
+     campainList.length > 2 ? body.insertAdjacentHTML("afterend",itemHTML) : "";
 
  }
 
