@@ -1,0 +1,93 @@
+{
+    "data": [
+      {
+        "category_name": "casual",
+        "category_title": "CASUAL",
+        "product": [
+          {
+            "id": 1,
+            "product_name": "Akıllı Telefon",
+            "price": "1500 $",
+            "campaing": "%15 indirim",
+            "image_url": "/images/casual-1.jpeg",
+            "link": "/casual/product-1.html"
+          },
+          {
+            "id": 2,
+            "product_name": "Laptop",
+            "price": "2500 $",
+            "campaing": "Hediye çanta",
+            "image_url": "/images/casual-2.jpeg",
+            "link": "/casual/product-2.html"
+          }
+        ]
+      },
+      {
+        "category_name": "bags",
+        "category_title": "BAGS",
+        "product": [
+          {
+            "id": 11,
+            "product_name": "Tişört",
+            "price": "50 $",
+            "campaing": "3 al 2 öde",
+            "image_url": "/images/bags-1.jpeg",
+            "link": "/bags/product-1.html"
+          },
+          {
+            "id": 12,
+            "product_name": "Pantolon",
+            "price": "80 $",
+            "campaing": "2. ürüne %25 indirim",
+            "image_url": "/images/bags-2.webp",
+            "link": "/bags/product-2.html"
+          }
+        ]
+      },
+      {
+        "category_name": "sneakers",
+        "category_title": "SNEAKERS",
+        "product": [
+          {
+            "id": 21,
+            "product_name": "Mutfak Robotu",
+            "price": "300 $",
+            "campaing": "Hediye mutfak eşyaları seti",
+            "image_url": "/images/sneakers-1.jpeg",
+            "link": "/sneakers/product-1.html"
+          },
+          {
+            "id": 22,
+            "product_name": "Yastık",
+            "price": "40 $",
+            "campaing": "İkinci yastık %50 indirimli",
+            "image_url": "/images/sneakers-2.jpeg",
+            "link": "/sneakers/product-2.html"
+          }
+        ]
+      },
+      {
+        "category_name": "electronic",
+        "category_title": "ELECTRONIC",
+        "product": [
+          {
+            "id": 31,
+            "product_name": "Koşu Ayakkabısı",
+            "price": "200 $",
+            "campaing": "Spor çorabı hediye",
+            "image_url": "/images/phone-1.jpeg",
+            "link": "/electronics/product-1.html"
+          },
+          {
+            "id": 32,
+            "product_name": "Spor Şort",
+            "price": "60 $",
+            "campaing": "2. ürüne %30 indirim",
+            "image_url": "/images/phone-2.jpeg",
+            "link": "/electronics/product-2.html"
+          }
+        ]
+      }
+    ]
+  }
+  
